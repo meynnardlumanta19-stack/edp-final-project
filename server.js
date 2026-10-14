@@ -42,6 +42,15 @@ let destinations = [
     description: "White sand beach resort offering comfortable overnight stays and water activities.",
     budget: "High",
     imageUrl: "https://images.unsplash.com/photo-1519046904884-53103b34b206"
+  },
+   {
+    id: "5",
+    name: "Ampil Beach Resort",
+    category: "Beach",
+    location: "Southern Leyte",
+    description: "White sand beach resort offering comfortable overnight stays and water activities.",
+    budget: "High",
+    imageUrl: "https://images.unsplash.com/photo-1519046904884-53103b34b206"
   }
 ];
 
